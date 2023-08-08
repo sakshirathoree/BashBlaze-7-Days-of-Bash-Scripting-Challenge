@@ -43,6 +43,7 @@ During exploration and analysis, an optimization opportunity was identified:
 **Optimization:** The loop in the script has only two possible outcomes (odd or even) based on a random number. By modifying the random number generation to `random_number=$(( ( RANDOM % 2 ) + 1 ))`, the loop iterations are reduced to one or two, improving the script's performance without altering its functionality.
 
 Feel free to explore, experiment, and enjoy the journey of unraveling this mysterious script!
+https://github.com/sakshirathoree/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/main/Challenges/Day_6/broken_myst/mystery.sh
 
 ---
 
