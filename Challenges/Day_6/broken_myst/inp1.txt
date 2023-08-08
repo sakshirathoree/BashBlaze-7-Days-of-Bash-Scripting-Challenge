@@ -1,0 +1,1 @@
+hello input inp1.txt
