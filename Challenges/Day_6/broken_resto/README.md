@@ -46,8 +46,6 @@ The challenge underscored the importance of meticulous scripting and attention t
 
 Feel free to explore my journey and the improved script in this repository. Happy scripting and bon appétit! 🚀🍽️
 
-## Acknowledgments
+---
 
-I extend my heartfelt gratitude to Kunal Gohrani, ASHOK SANA, Sunil Kumar, Gauri Yadav, Ali Sohail, Parag Pallav Singh, Amol Waingankar, Utkarsh Pathak, Er. Sandesh Pai, Prasad Suman, and Mohan Pooja Singh for their camaraderie and collaboration during this challenge.
-
-#BashScripting #BashBlazeChallenge #TWSBashBlazeChallenge
+This challenge is part of the #TWSBashBlazeChallenge by Shubham Londhe. To learn more and join the challenge, visit https://github.com/prajwalpd7/BashBlaze-7-Days-of-Bash-Scripting-Challenge/tree/main.
