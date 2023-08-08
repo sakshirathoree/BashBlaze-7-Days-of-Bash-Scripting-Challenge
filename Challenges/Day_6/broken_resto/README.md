@@ -44,7 +44,10 @@ This challenge was a fantastic opportunity for learning and growth. I deepened m
 
 The challenge underscored the importance of meticulous scripting and attention to detail. It reinforced my enthusiasm for problem-solving and script development. The satisfaction of crafting a functional solution from a broken script is truly gratifying.
 
-Feel free to explore my journey and the improved script in this repository. Happy scripting and bon appétit! 🚀🍽️
+Feel free to check out my improved script and the journey behind it in the repository. 
+https://github.com/sakshirathoree/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/main/Challenges/Day_6/broken_resto/restaurant_order.sh
+
+Happy scripting and bon appétit! 🚀🍽️
 
 ---
 
