@@ -22,16 +22,19 @@ The shell scripts are:
 
 ![image](https://github.com/sakshirathoree/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/67737704/5d03e543-0037-445c-923d-9e31146d52fc)
 
-3. Add the user to the docker group
+3. Add the user to the docker group using following command:
+```
+sudo usermod -aG docker ubuntu
+```
 ![image](https://github.com/sakshirathoree/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/67737704/c87692ce-d29f-49be-b507-7c47f9324b7c)
 
 
-4. Reboot the remote servers (this is important for docker to work)
-5. Install nginx in the remote servers
+5. Reboot the remote servers (this is important for docker to work)
+6. Install nginx in the remote servers
 ![image](https://github.com/sakshirathoree/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/67737704/bfe96b4b-805d-4c45-94d5-f06650a1b133)
 
 
-6. Write Dockerfile for your application, I used a python flask application for this project.
+7. Write Dockerfile for your application, I used a python flask application for this project.
 ![image](https://github.com/sakshirathoree/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/67737704/7ff8aa11-6cfa-4bc2-a4c7-dd3a1579c4bb)
 
 
