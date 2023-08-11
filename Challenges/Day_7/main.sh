@@ -6,4 +6,4 @@
 ./secure_transfer.sh flask-app
 
 # Running the deploy script
-./remote_execute.sh "cd ~/received/flask-app; chmod 700 deploy_app.sh; ./deploy_app.sh"
+./remote_execute.sh "cd ~/received/flask-app; chmod 700 deploy_app.sh; ./deploy_app.sh" "client1,client2"
